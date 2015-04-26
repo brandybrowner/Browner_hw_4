@@ -1,0 +1,15 @@
+body{
+	background-color: Orange
+}
+
+#container{
+	width: 1008px;
+	height: 100px;
+	background-color: #ffffff;
+}
+
+header{
+	background-color: #ddcb7f;
+	height: 288px;
+}
+
