@@ -3,7 +3,8 @@ body{
 }
 
 #container{
-	width: 1008px;
+	width: 1028px;
+	height: 1040px;
 	background-color: #000000;
 }
 
@@ -21,19 +22,25 @@ header{
 
 .left{
 	width: 528px;
-	height: 632px;
+	height: 642px;
 	padding: 20px;
 	background-color: #000000;
 	float: left;
 }
 
+.skirts{
+	width: 100%;
+}
+
 p{
+	width: 248px;
+	padding: 0px 0px 40px 20px;
 	color: #ffffff;
 }
 
-.main{
+.right{
 	width:400px;
-	height: 632px;
+	height: 642px;
 	padding: 20px;
 	background-color: #000000;
 	float: left;
@@ -46,4 +53,30 @@ h3{
 ul.likes > li{
 	color: #ffffff;
 	list-style-type: square;
+}
+
+img{
+	padding: 20px;
+}
+
+
+.large{
+	width: 328px;
+	height: 672px;
+	background-color: #000000;
+	float: left;
+}
+
+.medium{
+	width: 328px;
+	height: 672px;
+	background-color: #000000;
+	float: left;
+}
+
+.small{
+	width: 372px;
+	height: 672px;
+	background-color: #000000;
+	float: left;
 }
