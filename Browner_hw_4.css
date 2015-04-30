@@ -1,11 +1,10 @@
 body{
-	background-color: Orange
+	background-color: #ffffff;
 }
 
 #container{
 	width: 1008px;
-	height: 100px;
-	background-color: #ffffff;
+	background-color: #000000;
 }
 
 header{
@@ -13,3 +12,38 @@ header{
 	height: 288px;
 }
 
+.my-button{
+	padding: 20px;
+	color: #ddcb7f;
+	background-color: #ca3f02;
+	display: inline-block;
+}
+
+.left{
+	width: 528px;
+	height: 632px;
+	padding: 20px;
+	background-color: #000000;
+	float: left;
+}
+
+p{
+	color: #ffffff;
+}
+
+.main{
+	width:400px;
+	height: 632px;
+	padding: 20px;
+	background-color: #000000;
+	float: left;
+}
+
+h3{
+	color: #ffffff;
+}
+
+ul.likes > li{
+	color: #ffffff;
+	list-style-type: square;
+}
